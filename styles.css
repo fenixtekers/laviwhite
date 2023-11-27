@@ -1,0 +1,467 @@
+ body {
+  margin: 0;
+  padding: 0;
+ }
+ 
+ #background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: relative; 
+	 margin-left: auto; 
+	 margin-right: auto; 
+	 width: 1920px;
+	 height: 2311px; 
+	 overflow: hidden;
+	 z-index:0;
+	} 
+
+ #Button 
+{ 
+	 left: -1px; 
+	 top: 951px; 
+	 position: absolute; 
+	 width: 953px;
+	 height: 844px;
+	 z-index:1;
+} 
+
+ #Buttoncopiar2 
+{ 
+	 left: -4px; 
+	 top: 1791px; 
+	 position: absolute; 
+	 width: 1930px;
+	 height: 524px;
+	 z-index:2;
+} 
+
+ #Buttoncopiar 
+{ 
+	 left: 940px; 
+	 top: 951px; 
+	 position: absolute; 
+	 width: 981px;
+	 height: 844px;
+	 z-index:3;
+} 
+
+ #MockupCaixa04 
+{ 
+	 left: -161px; 
+	 top: -5px; 
+	 position: absolute; 
+	 width: 1198px;
+	 height: 958px;
+	 z-index:4;
+} 
+
+ #Button_0 
+{ 
+	 left: 942px; 
+	 top: -8px; 
+	 position: absolute; 
+	 width: 984px;
+	 height: 962px;
+	 z-index:5;
+} 
+
+ #Retngulo4 
+{ 
+	 left: 236px; 
+	 top: 1556px; 
+	 position: absolute; 
+	 width: 436px;
+	 height: 84px;
+	 z-index:6;
+} 
+
+ #Retngulo4_0 
+{ 
+	 left: 247px; 
+	 top: 1562px; 
+	 position: absolute; 
+	 width: 418px;
+	 height: 73px;
+	 z-index:7;
+} 
+
+ #Compreagora 
+{ 
+	 left: 293px; 
+	 top: 1578px; 
+	 position: absolute; 
+	 width: 328px;
+	 height: 41px;
+	 z-index:8;
+} 
+
+ #ObjetoInteligentedeV 
+{ 
+	 left: 1304px; 
+	 top: 53px; 
+	 position: absolute; 
+	 width: 237px;
+	 height: 73px;
+	 z-index:9;
+} 
+
+ #ObjetoInteligentedeV_0 
+{ 
+	 left: 1522px; 
+	 top: 1047px; 
+	 position: absolute; 
+	 width: 316px;
+	 height: 78px;
+	 z-index:10;
+} 
+
+ #LaviWhitechegoucomam 
+{ 
+	 left: 1026px; 
+	 top: 168px; 
+	 position: absolute; 
+	 width: 794px;
+	 height: 527px;
+	 z-index:11;
+} 
+
+ #Seguroparasensibilid 
+{ 
+	 left: 1495px; 
+	 top: 1658px; 
+	 position: absolute; 
+	 width: 370px;
+	 height: 52px;
+	 z-index:12;
+} 
+
+ #VoceencontraLaviWhit 
+{ 
+	 left: 197px; 
+	 top: 1166px; 
+	 position: absolute; 
+	 width: 518px;
+	 height: 238px;
+	 z-index:13;
+} 
+
+ #Seadorabebercafeumbo 
+{ 
+	 left: 388px; 
+	 top: 1855px; 
+	 position: absolute; 
+	 width: 1144px;
+	 height: 85px;
+	 z-index:14;
+} 
+
+ #Exemploaposaplicaoco 
+{ 
+	 left: 548px; 
+	 top: 2221px; 
+	 position: absolute; 
+	 width: 824px;
+	 height: 36px;
+	 z-index:15;
+} 
+
+ #ObjetoInteligentedeV_1 
+{ 
+	 left: 1551px; 
+	 top: 816px; 
+	 position: absolute; 
+	 width: 833px;
+	 height: 823px;
+	 z-index:16;
+} 
+
+ #MockupCaixa02 
+{ 
+	 left: 1265px; 
+	 top: 1081px; 
+	 position: absolute; 
+	 width: 813px;
+	 height: 608px;
+	 z-index:17;
+} 
+
+ #1xDia 
+{ 
+	 left: 762px; 
+	 top: 1004px; 
+	 position: absolute; 
+	 width: 338px;
+	 height: 78px;
+	 z-index:18;
+} 
+
+ #Light 
+{ 
+	 left: 1342px; 
+	 top: 1220px; 
+	 position: absolute; 
+	 width: 1469px;
+	 height: 837px;
+	 z-index:19;
+} 
+
+ #AIImage 
+{ 
+	 left: 1582px; 
+	 top: 2007px; 
+	 position: absolute; 
+	 width: 340px;
+	 height: 292px;
+	 z-index:20;
+} 
+
+ #CaixaMockup022 
+{ 
+	 left: 1548px; 
+	 top: 1930px; 
+	 position: absolute; 
+	 width: 312px;
+	 height: 381px;
+	 z-index:21;
+} 
+
+ #ObjetoInteligentedeV_2 
+{ 
+	 left: 858px; 
+	 top: 1153px; 
+	 position: absolute; 
+	 width: 597px;
+	 height: 147px;
+	 z-index:22;
+} 
+
+ #OLAVIWHITEutilizauma 
+{ 
+	 left: 996px; 
+	 top: 1214px; 
+	 position: absolute; 
+	 width: 348px;
+	 height: 45px;
+	 z-index:23;
+} 
+
+ #EficciaComprovada 
+{ 
+	 left: 996px; 
+	 top: 1184px; 
+	 position: absolute; 
+	 width: 236px;
+	 height: 18px;
+	 z-index:24;
+} 
+
+ #ObjetoInteligentedeV_3 
+{ 
+	 left: 858px; 
+	 top: 1330px; 
+	 position: absolute; 
+	 width: 597px;
+	 height: 147px;
+	 z-index:25;
+} 
+
+ #Nossosistemasimplesd 
+{ 
+	 left: 996px; 
+	 top: 1392px; 
+	 position: absolute; 
+	 width: 310px;
+	 height: 27px;
+	 z-index:26;
+} 
+
+ #facilidadedeuso 
+{ 
+	 left: 996px; 
+	 top: 1367px; 
+	 position: absolute; 
+	 width: 185px;
+	 height: 14px;
+	 z-index:27;
+} 
+
+ #ObjetoInteligentedeV_4 
+{ 
+	 left: 858px; 
+	 top: 1509px; 
+	 position: absolute; 
+	 width: 597px;
+	 height: 147px;
+	 z-index:28;
+} 
+
+ #OLAVIWHITElivredepro 
+{ 
+	 left: 996px; 
+	 top: 1569px; 
+	 position: absolute; 
+	 width: 303px;
+	 height: 48px;
+	 z-index:29;
+} 
+
+ #seguranaemprimeirolu 
+{ 
+	 left: 996px; 
+	 top: 1545px; 
+	 position: absolute; 
+	 width: 318px;
+	 height: 18px;
+	 z-index:30;
+} 
+
+ #layer_1 
+{ 
+	 left: 916px; 
+	 top: 1196px; 
+	 position: absolute; 
+	 width: 18px;
+	 height: 47px;
+	 z-index:31;
+} 
+
+ #layer_2 
+{ 
+	 left: 909px; 
+	 top: 1372px; 
+	 position: absolute; 
+	 width: 32px;
+	 height: 48px;
+	 z-index:32;
+} 
+
+ #layer_3 
+{ 
+	 left: 912px; 
+	 top: 1546px; 
+	 position: absolute; 
+	 width: 34px;
+	 height: 49px;
+	 z-index:33;
+} 
+
+ #ExperimentaLaviWhite 
+{ 
+	 left: 1234px; 
+	 top: 746px; 
+	 position: absolute; 
+	 width: 379px;
+	 height: 70px;
+	 z-index:34;
+} 
+
+ #Retngulo4_1 
+{ 
+	 left: 1286px; 
+	 top: 855px; 
+	 position: absolute; 
+	 width: 273px;
+	 height: 53px;
+	 z-index:35;
+} 
+
+ #Retngulo4_2 
+{ 
+	 left: 1293px; 
+	 top: 858px; 
+	 position: absolute; 
+	 width: 261px;
+	 height: 48px;
+	 z-index:36;
+} 
+
+ #Compreagora_0 
+{ 
+	 left: 1322px; 
+	 top: 869px; 
+	 position: absolute; 
+	 width: 204px;
+	 height: 26px;
+	 z-index:37;
+} 
+
+ #ObjetoInteligentedeV_5 
+{ 
+	 left: 595px; 
+	 top: 808px; 
+	 position: absolute; 
+	 width: 306px;
+	 height: 91px;
+	 z-index:38;
+} 
+
+ #CaixaTubo 
+{ 
+	 left: 1px; 
+	 top: 1927px; 
+	 position: absolute; 
+	 width: 542px;
+	 height: 387px;
+	 z-index:39;
+} 
+
+ #Camada3 
+{ 
+	 left: 640px; 
+	 top: 2017px; 
+	 position: absolute; 
+	 width: 325px;
+	 height: 162px;
+	 z-index:40;
+} 
+
+ #Retngulo5 
+{ 
+	 left: 639px; 
+	 top: 2009px; 
+	 position: absolute; 
+	 width: 328px;
+	 height: 175px;
+	 z-index:41;
+} 
+
+ #Retngulo5_0 
+{ 
+	 left: 639px; 
+	 top: 2008px; 
+	 position: absolute; 
+	 width: 328px;
+	 height: 177px;
+	 z-index:42;
+} 
+
+ #Camada4 
+{ 
+	 left: 1022px; 
+	 top: 2011px; 
+	 position: absolute; 
+	 width: 348px;
+	 height: 174px;
+	 z-index:43;
+} 
+
+ #Retngulo5_1 
+{ 
+	 left: 1021px; 
+	 top: 2008px; 
+	 position: absolute; 
+	 width: 350px;
+	 height: 178px;
+	 z-index:44;
+} 
+
+ #Retngulo5_2 
+{ 
+	 left: 1021px; 
+	 top: 2006px; 
+	 position: absolute; 
+	 width: 351px;
+	 height: 182px;
+	 z-index:45;
+} 
